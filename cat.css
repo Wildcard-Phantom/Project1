@@ -1,0 +1,20 @@
+@charset "utf-8";
+/* CSS Document */
+*{
+	box-sizing: border-box; 
+}
+body{
+	background: #4ED257  no-repeat fixed right
+}
+#catville{
+	width: 800px;
+	margin: 0 auto;
+}
+.Cats{
+	width: 480px;
+	height: 200px;
+	background: rgba(72,209,235,1.00);
+	}
+footer{
+	
+}
