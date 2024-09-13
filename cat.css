@@ -9,12 +9,17 @@ body{
 #catville{
 	width: 800px;
 	margin: 0 auto;
+	border-bottom-left-radius: 
 }
 .Cats{
 	width: 480px;
 	height: 200px;
 	background: rgba(72,209,235,1.00);
-	}
+	padding: 10px 10px 10px 10px}
 footer{
 	
+}
+body > h1{
+	text-align: center;
+	color: rgba(255,0,33,1.00)
 }
